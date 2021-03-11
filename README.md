@@ -1,0 +1,2 @@
+# ESCopy
+Copy ES indices
